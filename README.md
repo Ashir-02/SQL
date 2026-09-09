@@ -7,6 +7,7 @@
 | [0197-rising-temperature](https://github.com/Ashir-02/SQL/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ashir-02/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ashir-02/SQL/tree/master/0577-employee-bonus) |
+| [1193-monthly-transactions-i](https://github.com/Ashir-02/SQL/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Ashir-02/SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Ashir-02/SQL/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Ashir-02/SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
